@@ -5,4 +5,4 @@ Installing stow on Ubuntu:
 sudo apt instal stow
 ```
 
-My 'stow' archive will be locally in ~/.stowarchive
+My 'stow' archive will be locally in ~/.dotfiles or ~/.stowarchive
